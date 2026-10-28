@@ -1,7 +1,5 @@
 # Simple Hospital Appointment System
 
-This version is intentionally small and easy to explain.
-
 ## Files
 
 - HospitalAppointment.java
